@@ -32,3 +32,6 @@ build
 # IntelliJ
 .idea/
 *.iml
+
+# Ignore dev folder
+dev/
